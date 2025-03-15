@@ -6,18 +6,22 @@ The **Automatic Attendance System** leverages facial recognition technology to a
 
 ## Photos & Architecture
 
-### Architectural Diagram
-![Architectural Diagram](https://drive.google.com/file/d/1sED-EYoFRcPqCPrM9BUckR_MiIPfmOoz/view?usp=sharing)
+## Architectural Diagram  
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1sED-EYoFRcPqCPrM9BUckR_MiIPfmOoz" width="600">
+</p>  
 
-### System Implementation Photos
+## System Implementation Photos  
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1rWcB2ZlAwp8yx7BKagfXca-1gVGh5YSP" width="400">
+  <img src="https://drive.google.com/uc?export=view&id=1TXinEjZtTU2Wr0X_s7uiqwhJC8q3S0JN" width="400">
+</p>
 
-| Classroom Image 1 | Classroom Image 2 |
-| ---------------- | ---------------- |
-| ![Photo 1](https://drive.google.com/file/d/1rWcB2ZlAwp8yx7BKagfXca-1gVGh5YSP/view?usp=sharing) | ![Photo 2](https://drive.google.com/file/d/1rWcB2ZlAwp8yx7BKagfXca-1gVGh5YSP/view?usp=sharing) |
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1YLQMmaRm9ffuucAhkLPdHuMQie-6J6Rf" width="400">
+  <img src="https://drive.google.com/uc?export=view&id=1-qzNyCdcR-qHLJig02Zu2W7Vjv5BRJUg" width="400">
+</p>
 
-| Classroom Image 3 | Classroom Image 4 |
-| ---------------- | ---------------- |
-| ![Photo 3](https://drive.google.com/file/d/1YLQMmaRm9ffuucAhkLPdHuMQie-6J6Rf/view?usp=sharing) | ![Photo 4](https://drive.google.com/file/d/1-qzNyCdcR-qHLJig02Zu2W7Vjv5BRJUg/view?usp=sharing) |
 
 ### Detailed Project Description
 For an in-depth understanding of the system's working, refer to the detailed documentation: [Project Working PDF](https://drive.google.com/file/d/19GCaB-zp9WXLOfB8iwRN5YHk7aZimB0c/view?usp=sharing)
